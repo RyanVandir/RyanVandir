@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning e cusando ADS
 - 💞️ I’m looking to collaborate on códigos etc..
 - 📫 How to reach me r.vandir@outlook.com  
-- ⚡ Fun fact: ...
 
 <!---
 RyanVandir/RyanVandir is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
