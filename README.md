@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @RyanVandir
-- 👀 I’m interested in programação 
-- 🌱 I’m currently learning e cusando ADS
-- 💞️ I’m looking to collaborate on códigos etc..
-- 📫 How to reach me r.vandir@outlook.com  
+- 👋 Olá, sou @RyanVandir
+- 👀 Tenho interesse em programação 
+- 🌱 Atualmente cusando ADS
+- 💞️ Procuro coloborar em projetos etc..
+- 📫 Entrar em contato comigo r.vandir@outlook.com  
 
 <!---
 RyanVandir/RyanVandir is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
